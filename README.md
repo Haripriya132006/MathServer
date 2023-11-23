@@ -134,10 +134,11 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![Alt text](<Screenshot 2023-11-23 115030.png>)
+![Screenshot 2023-11-23 115030](https://github.com/Haripriya132006/MathServer/assets/144870747/0f757558-1a3d-4e5b-99e4-b2fcf151f085)
 
 ## HOMEPAGE:
-![Alt text](<Screenshot 2023-11-23 114847.png>)
+![Screenshot 2023-11-23 114847](https://github.com/Haripriya132006/MathServer/assets/144870747/3758993b-05fa-4068-9ed4-e72c9260ada7)
+
 
 
 ## RESULT:
